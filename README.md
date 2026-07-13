@@ -73,22 +73,12 @@ curl http://localhost:3000/about
 
 ```
 mini-backend/
-├── server.py     ← main server file
+├── app.py     ← main server file
 └── README.md     ← documentation
 ```
 
 ---
 
-## 📤 Publish to GitHub
-
-```bash
-git init
-git add .
-git commit -m "first commit: two-endpoint mini backend"
-git remote add origin https://github.com/YOUR_USERNAME/mini-backend.git
-git branch -M main
-git push -u origin main
-```
 
 ---
 
